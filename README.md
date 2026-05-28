@@ -4,14 +4,14 @@
 
 Email Me 👉 ✉️ **soheetp@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+* 🔭 **I’m currently working on:** Frontend Web Development and Cybersecurity Projects
+* 🌱 **I’m currently learning:** React.js, Ethical Hacking, and Cybersecurity Fundamentals
+* 👯 **I’m looking to collaborate on:** Web Development, Open Source, and Cybersecurity Projects
+* 🤔 **I’m looking for help with:** Advanced Cybersecurity Concepts and Secure Web Applications
+* 💬 **Ask me about:** Frontend Development, Cybersecurity, Ethical Hacking, HTML, CSS, JavaScript, and Tech Support
+* 📫 **How to reach me:** soheetp@gmail.com
+* ⚡ Fun fact: I turn coffee into code and ideas into projects
+
 
 
 ## 🌐 Socials:
